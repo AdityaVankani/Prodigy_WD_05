@@ -8,7 +8,7 @@ A React-based weather application that fetches and displays weather data from th
 - Fetch weather data based on user's current geolocation
 - Display current weather conditions, temperature, humidity, and wind speed
 - Option to view more detailed weather information, including pressure, visibility, cloudiness, sunrise, and sunset times
-- Responsive design with a dark theme
+
 
 
 ## Technologies Used
