@@ -18,6 +18,9 @@ A React-based weather application that fetches and displays weather data from th
 - Axios
 - OpenWeatherMap API
 
+## Check out
+https://weatherpulses.web.app/
+
 ## Getting Started
 
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
@@ -27,8 +30,6 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Node.js and npm installed
 - OpenWeatherMap API key
 
-## Check out
-https://weatherpulses.web.app/
 
 ### Installation
 
