@@ -27,6 +27,9 @@ Follow these instructions to get a copy of the project up and running on your lo
 - Node.js and npm installed
 - OpenWeatherMap API key
 
+## Check out
+https://weatherpulses.web.app/
+
 ### Installation
 
 1. Clone the repository:
@@ -36,4 +39,6 @@ https://github.com/AdityaVankani/Prodigy_WD_05.git
 cd Prodigy_WD_05
 npm install
 npm run dev
+
+
 
